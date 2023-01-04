@@ -1,0 +1,28 @@
+start button
+step buad adjust simulation time
+real bus button - simulationj bus
+vn1630a vector cancase xl (hardware ) connected to the ecu
+des hex
+write 
+pannel we can create graphical interface such as dashboadrd
+trace 
+graphic signal graphic added
+data ats shows data
+state tracker see errors
+test it is use for deburging
+test envorment-
+diagnostic iso tp -for uds connection real time simulation
+can data studio-creating a ecu
+sym variation config-user define variable
+hardware
+---
+channel usage-select requred channel
+candb editor-
+
+
+
+.cfg config file
+simulation
+simulation swtup
+
+
