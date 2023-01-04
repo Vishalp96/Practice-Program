@@ -1,0 +1,18 @@
+*** Creating Trace Output File 'PAWAR.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x40000000 --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\PAWAR.map" -o "PAWAR.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'PAWAR.axf'
+### ADS-LD Command File: 'PAWAR.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'PAWAR.lnp', Handle=0x00000CFC
+### Writing '.lnp' file
+### ADS-LD Command file 'PAWAR.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.
